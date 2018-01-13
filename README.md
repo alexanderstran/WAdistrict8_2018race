@@ -11,3 +11,9 @@ Currently Republicans hold 47 more Congressional seats.
 # About Dino Rossi
 - https://ballotpedia.org/Dino_Rossi
 - https://www.thestranger.com/slog/2017/09/22/25429283/5-things-you-need-to-know-about-dino-rossi-the-republican-running-to-replace-dave-reichert
+
+#Getting the Vote Out
+- https://www.vote.org/register-to-vote/
+- https://www.aauw.org/resource/organize-a-voter-registration-drive/
+- http://www.particip8.org/vote/
+- https://www.sos.wa.gov/_assets/elections/guide-to-registering-voters.pdf
